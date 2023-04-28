@@ -46,4 +46,5 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </div>
   
   ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FabledTria5&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabledTria5&theme=github_dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabledTria5&show_icons=true&theme=github_dark)
