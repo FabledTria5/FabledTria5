@@ -1,25 +1,21 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
-  
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-
-  <img src="https://komarev.com/ghpvc/?username=FabledTria5&style=flat-square&color=blue" alt=""/>
-
-  <h1>
-    hey there
+<h1>
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/uQnxWYDuUf6zGbCsGP/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/uQnxWYDuUf6zGbCsGP/giphy.gif" width="800" height="400"/>
+  <div id="badges">
+    <a href="https://vk.com/fabledtria5">
+      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk badge"/>
+    </a>
+    <a href="https://hh.ru/resume/96755789ff0b54af7e0039ed1f3349516f4568">
+      <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logoColor=white" alt="HH Badge"/>
+    </a>
+</div>
+
+  <img src="https://komarev.com/ghpvc/?username=FabledTria5&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### :man_technologist: About Me : 
@@ -30,7 +26,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I like to read tech articles on Medium and read books about building effective Android applications.
 
-- :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/-Vkontakte-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/fabledtria5)
+- :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/fabledtria5)
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
@@ -43,6 +39,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </div>
   
   ### :fire: My Stats :
