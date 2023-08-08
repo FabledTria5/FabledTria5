@@ -45,5 +45,3 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   ### :fire: My Stats :
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabledTria5&theme=github_dark)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabledTria5&show_icons=true&theme=github_dark)
-  
-  ![Snake animation](https://github.com/FabledTria5/FabledTria5/blob/output/github-contribution-grid-snake.svg)
