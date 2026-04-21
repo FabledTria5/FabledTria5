@@ -1,15 +1,14 @@
-<h1 align="center">Hi, I'm Alexey</h1>
-
-  <h3 align="center">Android Developer | Kotlin | Jetpack Compose</h3>
+  <p align="center">
+       <img src="./assets/img_github_profile.png" alt="Alexey - Android Developer" width="100%" />
+     </p>
 
   <p align="center">
     <a href="https://vk.com/fabledtria5">
-      <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+      <img src="https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white" alt="VK"/>
     </a>
     <a href="https://hh.ru/resume/96755789ff0b54af7e0039ed1f3349516f4568">
-      <img src="https://img.shields.io/badge/HeadHunter-D6001C?style=for-the-badge&logoColor=white" alt="HeadHunter"/>
+      <img src="https://img.shields.io/badge/HeadHunter-D6001C?style=flat-square&logoColor=white" alt="HeadHunter"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=FabledTria5&style=for-the-badge&color=0e75b6" alt="Profile views"/>
   </p>
 
   ---
