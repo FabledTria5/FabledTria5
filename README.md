@@ -93,12 +93,3 @@
       "Keeping app behavior predictable and testable"
   )
   ```
-
-### GitHub Activity
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FabledTria5&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabledTria5&layout=compact&theme=github_dark&hide_border=true" alt="Top
-  languages"/>
-  </p>
