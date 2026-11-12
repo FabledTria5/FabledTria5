@@ -93,3 +93,12 @@
       "Keeping app behavior predictable and testable"
   )
   ```
+
+---
+
+### Contribution Arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabledTria5/FabledTria5/pacman-output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man eating cells on my GitHub contribution graph" src="https://raw.githubusercontent.com/FabledTria5/FabledTria5/pacman-output/pacman-contribution-graph.svg" width="100%">
+</picture>
