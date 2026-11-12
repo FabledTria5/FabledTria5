@@ -1,5 +1,5 @@
   <p align="center">
-       <img src="./assets/img_github_profile.png" alt="Alexey - Android Developer" width="100%" />
+       <img src="./assets/img_github_profile.jpg" alt="Alexey - Android Developer" width="100%" />
      </p>
 
   <p align="center">
