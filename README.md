@@ -9,6 +9,15 @@
     <a href="https://hh.ru/resume/96755789ff0b54af7e0039ed1f3349516f4568">
       <img src="https://img.shields.io/badge/HeadHunter-D6001C?style=flat-square&logoColor=white" alt="HeadHunter"/>
     </a>
+    <a href="https://x.com/fabled_tria5">
+      <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+    </a>
+    <a href="https://www.instagram.com/rogatin_alex/">
+      <img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.threads.com/@rogatin_alex">
+      <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"/>
+    </a>
   </p>
 
   ---
