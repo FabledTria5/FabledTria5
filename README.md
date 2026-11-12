@@ -38,41 +38,47 @@
   #### Android
 
   <p>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-    <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+    <img src="https://img.shields.io/badge/Jetpack%20Navigation-1B5E45?style=flat-square&logo=android&logoColor=white" alt="Jetpack Navigation"/>
+    <img src="https://img.shields.io/badge/Coroutines-6445BC?style=flat-square" alt="Coroutines"/>
+    <img src="https://img.shields.io/badge/Flow-6445BC?style=flat-square" alt="Flow"/>
   </p>
 
-  #### Architecture & App Layer
+  #### App Architecture
 
   <p>
-    <img src="https://img.shields.io/badge/MVVM-455A64?style=for-the-badge" alt="MVVM"/>
-    <img src="https://img.shields.io/badge/MVI-455A64?style=for-the-badge" alt="MVI"/>
-    <img src="https://img.shields.io/badge/Clean%20Architecture-455A64?style=for-the-badge" alt="Clean Architecture"/>
-    <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines"/>
-    <img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Flow"/>
+    <img src="https://img.shields.io/badge/Koin-A04715?style=flat-square" alt="Koin"/>
+    <img src="https://img.shields.io/badge/Ktor%20Client-7451BC?style=flat-square&logo=ktor&logoColor=white" alt="Ktor Client"/>
+    <img src="https://img.shields.io/badge/MVVM-455A64?style=flat-square" alt="MVVM"/>
+    <img src="https://img.shields.io/badge/MVI-455A64?style=flat-square" alt="MVI"/>
   </p>
 
-  #### Tools & Services
+  #### Build & Tooling
 
   <p>
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Gradle%20Kotlin%20DSL-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle Kotlin DSL"/>
+    <img src="https://img.shields.io/badge/Git-B33424?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitLab-A63D20?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-205FAD?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/Sentry-49305F?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
+    <img src="https://img.shields.io/badge/Firebase-A13920?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
   </p>
 
-  #### AI & Productivity
+  **In production** · Built a referral program end to end, from aligning API contracts with backend engineers to implementing the Compose UI and writing tests.
+
+  ---
+
+  ### Side Project · Agentina
+
+  A desktop workspace for working with Claude and Codex side by side. Built with Tauri and TypeScript, with local chat title generation powered by llama.cpp.
 
   <p>
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-    <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
-    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+    <img src="https://img.shields.io/badge/Tauri-16818D?style=flat-square&logo=tauri&logoColor=white" alt="Tauri"/>
+    <img src="https://img.shields.io/badge/TypeScript-2467A9?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/llama.cpp-455A64?style=flat-square" alt="llama.cpp"/>
+    <img src="https://img.shields.io/badge/Claude-AA5036?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
+    <img src="https://img.shields.io/badge/Codex-1D2530?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
   </p>
 
   ---
